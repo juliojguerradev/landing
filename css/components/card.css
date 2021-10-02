@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+.card {
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  text-align: center;
+  line-height: 2;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card p {
+  color: gray;
+  font-family: "Open Sans";
+  line-height: 1.5;
+}

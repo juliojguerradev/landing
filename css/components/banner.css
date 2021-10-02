@@ -1,0 +1,13 @@
+.banner {
+  padding: 200px 0px;
+  background-image: url(/landing/images/background.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.btn-green {
+  padding: 15px 30px;
+  background-color: rgb(125, 206, 125);
+  color: white;
+  border-radius: 50px;
+}

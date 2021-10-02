@@ -1,0 +1,29 @@
+.footer {
+  height: 150px;
+  background-color: rgb(36, 36, 36);
+  padding: 50px;
+  text-align: center;
+}
+
+.footer-container {
+  display: block;
+}
+
+.footer p {
+  color: gray;
+}
+
+.list-inline > li {
+  list-style: none;
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+}
+
+.footer a {
+  color: rgb(127, 230, 127);
+}
+
+.fab {
+  width: 30px;
+}
